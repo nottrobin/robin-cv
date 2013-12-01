@@ -1,0 +1,18 @@
+@import "libre-baskerville-400";
+
+html {
+    font-family: "Libre Baskerville";
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+body {
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 3em;
+}
